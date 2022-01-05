@@ -1,2 +1,2 @@
 # Arithmeticoperations
-sum=a+b
+mult=a*b
